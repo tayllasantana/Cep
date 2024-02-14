@@ -3,7 +3,7 @@
   
 ## Sobre o Projeto
 
-- Esse projeto é um site que mostra a **cidade, rua, bairro, estado, IBGE** de acordo com o **cep**, isso com ajuda de uma **API** que pega a **localização ddo cep**.
+- Esse projeto é um site que mostra a **cidade, rua, bairro, estado, IBGE** de acordo com o **cep**, isso com ajuda de uma **API** que pega a **localização do cep**.
 
 ## Linguagens
 
